@@ -14,5 +14,4 @@ Contributing to open-source projects
 Email: Jonh.rendula.coc@phinmaed.com
 LinkedIn: https://ph.linkedin.com/in/harry-garcia-3a0bb5357
 
-
 Feel free to check out my repositories and contribute to any of my open projects! 
