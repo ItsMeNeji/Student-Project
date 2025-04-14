@@ -1,4 +1,4 @@
-# Hi there, I'm Loreen 👋
+# Hi there, I'm Harry 👋
 
 Welcome to my GitHub! I'm a passionate BSIT student with a growing interest in technology, programming, and web development. My goal is to learn and improve my skills while working on exciting projects. 
 
@@ -8,9 +8,7 @@ Welcome to my GitHub! I'm a passionate BSIT student with a growing interest in t
 - Contributing to open-source projects
 
 🌱 I’m currently learning:
-- **Python** and **JavaScript** for web development
-- Building more interactive applications
-- Exploring the world of **cybersecurity** and **data science**
+- HTML,CSS,JAVA,PYTHON
 
 📫 How to reach me:
 - Email: Jonh.rendula.coc@phinmaed.com
